@@ -27,7 +27,7 @@ namespace EPlayers_AspNetCore.Controllers
             Equipe novaEquipe = new Equipe();
             novaEquipe.IdEquipe = Int32.Parse(form["IdEquipe"]);
             novaEquipe.Nome = form["Nome"];
-            novaEquipe.Imagem = form["Imagem"];
+            
 
             // Upload Inicio
 
@@ -37,6 +37,9 @@ namespace EPlayers_AspNetCore.Controllers
                 // Recebemos o arquivo que o usuario enviou e armazenamos na variavel file
                 var file = form.Files[0];
                 var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipes");
+
+                Console.WriteLine($"{folder}");
+                
                 
                 //Verificamos se o diretorio (pasta) já existe, senão criamos
                 if(!Directory.Exists(folder))
@@ -54,7 +57,7 @@ namespace EPlayers_AspNetCore.Controllers
             }
                 else
                 {
-                    novaEquipe.Imagem = "padrão.png";
+                    novaEquipe.Imagem = "padrao.png";
                 }
             
             // Upload Final

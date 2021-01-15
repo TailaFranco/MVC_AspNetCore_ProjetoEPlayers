@@ -21,7 +21,7 @@ namespace EPlayers_AspNetCore.Models
         // Criamos o método para preparar a linha do csv
         public string Prepare(Equipe e)
         {
-            return $"{e.IdEquipe}; {e.Nome}; {e.Imagem}";
+            return $"{e.IdEquipe};{e.Nome};{e.Imagem}";
         }
         public void Create(Equipe e)
         {   // preparamos um array de string para o método appendalllines

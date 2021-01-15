@@ -14392,11 +14392,6 @@
   "RootNamespace": "EPlayers_AspNetCore",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\fic\\Desktop\\Taila\\Nova pasta\\MVC_AspNetCore_ProjetoEPlayers\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\fic\\Desktop\\Taila\\Nova pasta\\MVC_AspNetCore_ProjetoEPlayers\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"

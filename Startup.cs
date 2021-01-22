@@ -23,7 +23,7 @@ namespace EPlayers_AspNetCore
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-<<<<<<< HEAD
+
             services.AddDistributedMemoryCache();
 
             services.AddSession(options =>
@@ -32,8 +32,8 @@ namespace EPlayers_AspNetCore
                 options.Cookie.HttpOnly = true;
                 options.Cookie.IsEssential = true;
             });
-=======
->>>>>>> a81c872f53372117425adcc500cc9ed0b382d329
+
+
             services.AddControllersWithViews();
         }
 
@@ -56,11 +56,9 @@ namespace EPlayers_AspNetCore
             app.UseRouting();
 
             app.UseAuthorization();
-
-<<<<<<< HEAD
+            
             app.UseSession();
-=======
->>>>>>> a81c872f53372117425adcc500cc9ed0b382d329
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(

@@ -11,6 +11,7 @@ namespace EPlayers_AspNetCore.Models
         public string Nome { get; set; }
         
         public int IdEquipe { get; set; }
+
          
         // Login
         public string Email { get; set; }

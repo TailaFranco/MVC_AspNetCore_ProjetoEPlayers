@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "FilePath": "c:\\Users\\Taila\\Downloads\\MVC_AspNetCore_ProjetoEPlayers-main\\EPlayers_AspNetCore.csproj",
+=======
+  "FilePath": "c:\\Users\\fic\\Desktop\\Taila\\Nova pasta\\MVC_AspNetCore_ProjetoEPlayers\\EPlayers_AspNetCore.csproj",
+>>>>>>> a81c872f53372117425adcc500cc9ed0b382d329
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14387,11 +14391,16 @@
         }
       }
     ],
+<<<<<<< HEAD
     "CSharpLanguageVersion": 800
+=======
+    "CSharpLanguageVersion": 900
+>>>>>>> a81c872f53372117425adcc500cc9ed0b382d329
   },
   "RootNamespace": "EPlayers_AspNetCore",
   "Documents": [
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\Taila\\Downloads\\MVC_AspNetCore_ProjetoEPlayers-main\\Views\\Equipe\\Index.cshtml",
       "TargetPath": "Views\\Equipe\\Index.cshtml",
       "FileKind": "mvc"
@@ -14403,10 +14412,24 @@
     },
     {
       "FilePath": "c:\\Users\\Taila\\Downloads\\MVC_AspNetCore_ProjetoEPlayers-main\\Views\\Home\\Index.cshtml",
+=======
+      "FilePath": "c:\\Users\\fic\\Desktop\\Taila\\Nova pasta\\MVC_AspNetCore_ProjetoEPlayers\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fic\\Desktop\\Taila\\Nova pasta\\MVC_AspNetCore_ProjetoEPlayers\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fic\\Desktop\\Taila\\Nova pasta\\MVC_AspNetCore_ProjetoEPlayers\\Views\\Home\\Index.cshtml",
+>>>>>>> a81c872f53372117425adcc500cc9ed0b382d329
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\Taila\\Downloads\\MVC_AspNetCore_ProjetoEPlayers-main\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -14423,12 +14446,25 @@
     },
     {
       "FilePath": "c:\\Users\\Taila\\Downloads\\MVC_AspNetCore_ProjetoEPlayers-main\\Views\\_ViewStart.cshtml",
+=======
+      "FilePath": "c:\\Users\\fic\\Desktop\\Taila\\Nova pasta\\MVC_AspNetCore_ProjetoEPlayers\\Views\\Equipe\\Index.cshtml",
+      "TargetPath": "Views\\Equipe\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fic\\Desktop\\Taila\\Nova pasta\\MVC_AspNetCore_ProjetoEPlayers\\Views\\_ViewStart.cshtml",
+>>>>>>> a81c872f53372117425adcc500cc9ed0b382d329
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\Taila\\Downloads\\MVC_AspNetCore_ProjetoEPlayers-main\\Views\\Login\\index.cshtml",
       "TargetPath": "Views\\Login\\index.cshtml",
+=======
+      "FilePath": "c:\\Users\\fic\\Desktop\\Taila\\Nova pasta\\MVC_AspNetCore_ProjetoEPlayers\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+>>>>>>> a81c872f53372117425adcc500cc9ed0b382d329
       "FileKind": "mvc"
     }
   ],

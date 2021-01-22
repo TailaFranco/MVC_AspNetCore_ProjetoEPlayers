@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "2XyO3aoKILbeXbNJAQoaaRMwVWLEqQV0ce/0E7OCctfk6FeAEd6njK9oLQA+3QCPOJlqDnq1PHNqHZHHk7r51w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Taila\\Downloads\\MVC_AspNetCore_ProjetoEPlayers-main\\EPlayers_AspNetCore.csproj",
+=======
+  "dgSpecHash": "X7XW/ir4XsOTeIGVujSR5ZctOJaOqPOINHoEsgyPOfQOGx/ltACp3opP2AlCLWXt07Pt21QHv7kHhlfKqsjVLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Taila\\Desktop\\Dev\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj",
+>>>>>>> a81c872f53372117425adcc500cc9ed0b382d329
   "expectedPackageFiles": [],
   "logs": []
 }
